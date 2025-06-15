@@ -30,7 +30,6 @@ typing-speed-test/
 
 📸 Screenshot
 
-[Insert Screenshot: typing-speed-test-preview.png]
 ![Type speed Preview](typingstoop.png)
 
 
@@ -38,7 +37,7 @@ typing-speed-test/
 
 1. **Clone or download the repository**
    ```bash
-   git clone 
+   git clone https://github.com/DONDAPATI-THEERDHA-PURUSHOTHAM/Typing-speed-writer.git
 Open the project
 Navigate to the project folder and open index.html in your browser.
 
@@ -78,7 +77,7 @@ Dondapati Theerdha Purushotham
 🌐 Passionate about tech, law, and web development and creativity!
 
 📄 License
-This project is licensed under the MIT License. Feel free to use and modify it for educational and personal purposes.
+This project is licensed under the MIT License. 
 
 Contribution and support
 
